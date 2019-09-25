@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\17838\source\repos\test\test\main.cpp(448): warning C4305: “+=”: 从“double”到“float”截断
+c:\users\17838\source\repos\test\test\main.cpp(453): warning C4305: “-=”: 从“double”到“float”截断
+c:\users\17838\source\repos\test\test\main.cpp(364): warning C4715: “dealError”: 不是所有的控件路径都返回值
+  test.vcxproj -> C:\Users\17838\source\repos\test\Debug\test.exe
